@@ -1,6 +1,7 @@
 cssselect==1.2.0
 datasets==2.14.5
-dotenv
+python-dotenv==1.0.0
+streamlit==1.21.0
 fastapi==0.104.1
 filetype==1.2.0
 google-ai-generativelanguage==0.4.0
@@ -8,6 +9,8 @@ google-api-core==2.15.0
 google-auth==2.16.0
 google-auth-oauthlib==0.4.6
 google-generativeai==0.3.2
+google-pasta==0.2.0
+googleapis-common-protos==1.61.0
 googletrans==3.1.0a0
 huggingface-hub==0.16.4
 importlib-metadata==6.0.0
