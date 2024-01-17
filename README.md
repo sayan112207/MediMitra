@@ -28,12 +28,6 @@ MediMitra is a health chatbot interface powered by Google's GenerativeAI (Gemini
 - Streamlit
 - Google GenerativeAI
 
-## Example
-
-```python
-# Your example code here
-```
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
