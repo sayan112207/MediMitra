@@ -2,7 +2,7 @@
 
 <img src="bot.png" alt="MediMitra logo" width="120"/>
 
-MediMitra is a health chatbot interface powered by Google's GenerativeAI (Gemini Pro). Users can interact with the bot through text or speech, asking health-related questions and receiving responses. The application is built using Streamlit and includes a clear button to reset both chat history and speech input.
+[MediMitra](https://medimitra.streamlit.app/) is a health chatbot interface powered by Google's GenerativeAI (Gemini Pro). Users can interact with the bot through text or speech, asking health-related questions and receiving responses. The application is built using Streamlit and includes a clear button to reset both chat history and speech input.
 
 ## Features
 
