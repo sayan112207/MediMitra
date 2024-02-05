@@ -65,6 +65,13 @@ with c2:
 if text:
     state.text_received.append(text)
 
+
+
+
+
+
+
+
 # Display all received texts
 for text in state.text_received:
     st.text(text)
