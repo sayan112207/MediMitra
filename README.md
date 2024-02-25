@@ -21,7 +21,7 @@
 
 1. Install dependencies: `pip install -r requirements.txt`
 2. Set up environment variables, including Google API key, in a `.env` file.
-3. Run the app: `streamlit run your_app.py`
+3. Run the app: `streamlit run bot.py`
 
 ## Dependencies
 
