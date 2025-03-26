@@ -15,7 +15,7 @@ from streamlit_mic_recorder import mic_recorder, speech_to_text
 ## API KEY AND GETTING THE MODEL
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
-model = genai.GenerativeModel("gemini-pro")
+model = genai.GenerativeModel("gemini-1.5-flash-latest")
 chat = model.start_chat(history=[])
 
 
